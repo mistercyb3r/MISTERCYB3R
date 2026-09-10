@@ -35,33 +35,25 @@ I'm a developer passionate about building intelligent systems, optimizing AI wor
 
 ---
 
-## 🌟 Featured Projects
+## 🧠 Vibe Coding & AI Agents Manager
 
-### 🔥 **OptiLoop**
-Autonomous Multi-Agent Coding System — AI-driven coding assistant with Planner → Executor → Reviewer loop in Docker sandboxes.
-[![Python](https://img.shields.io/badge/python-3.11+-blue.svg)](https://python.org)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.110+-009688.svg)](https://fastapi.tiangolo.com)
-[![Next.js](https://img.shields.io/badge/Next.js-14+-black.svg)](https://nextjs.org)
-[![Docker](https://img.shields.io/badge/Docker-24+-2496ED.svg)](https://docker.com)
-[![Tests](https://img.shields.io/badge/tests-111%20passing-brightgreen.svg)]()
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-→ [View Repo](https://github.com/mistercyb3r/OptiLoop)
+I specialize in **vibe coding** — orchestrating AI agents to architect, build, and deploy software faster than ever. Using modern AI-powered workflows, I manage autonomous agents that handle planning, coding, testing, and deployment, turning high-level intent into production-ready code.
 
-### 🛰️ **StarPulse**
-Self-hosted Starlink monitoring dashboard with telemetry, weather, outage tracking, and email alerts.
-→ [View Repo](https://github.com/mistercyb3r/StarPulse)
+<p align="center">
+  <a href="https://discord.gg/pPAhavWY3k">
+    <img src="https://img.shields.io/badge/Join-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="https://github.com/mistercyb3r?tab=repositories">
+    <img src="https://img.shields.io/badge/Repos-6-orange?style=for-the-badge&logo=github" alt="Repos">
+  </a>
+</p>
 
-### 🤖 **BotForge**
-Modern modular Discord bot built with Python, slash commands, and a powerful plugin system.
-→ [View Repo](https://github.com/mistercyb3r/BotForge)
-
-### 🖥️ **HomeserverDashboard**
-Lightweight personal home-server cockpit — CPU, RAM, Docker, Jellyfin, Starlink in one view.
-→ [View Repo](https://github.com/mistercyb3r/HomeserverDashboard)
-
-### 💻 **Ubuntu Dotfiles**
-Reproducible Ubuntu developer workstation for Dell Latitude 5400 — Zsh, Starship, Docker, Tailscale, and more.
-→ [View Repo](https://github.com/mistercyb3r/ubuntu-dotfiles)
+### 🤖 AI Agent Management Stack
+- **Agentic Workflow** — Planner → Executor → Reviewer autonomous loops
+- **AI Orchestration** — Dynamically route tasks to the best model
+- **Vibe Coding** — Prompt-driven development with AI pair programmers
+- **Multi-Agent Systems** — Collaborative AI agents working in parallel
+- **Cost-Aware Automation** — Budget enforcement and smart model selection
 
 ---
 
@@ -86,5 +78,5 @@ Reproducible Ubuntu developer workstation for Dell Latitude 5400 — Zsh, Starsh
 ---
 
 <p align="center">
-  <em>“Code is poetry, but working code is magic.” ✨</em>
+  <em>“Vibe code it, ship it.” ✨</em>
 </p>
