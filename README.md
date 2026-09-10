@@ -12,6 +12,10 @@
   <a href="https://github.com/mistercyb3r?tab=following"><img src="https://img.shields.io/badge/Following-6-purple?style=flat&logo=github" alt="Following"></a>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" alt="Vibe coding animation" width="400"/>
+</p>
+
 ---
 
 ## 🚀 About Me
